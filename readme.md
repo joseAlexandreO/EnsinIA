@@ -2,7 +2,7 @@
 # EnsinIA
 
 Descrição do projeto aqui.
-ssss
+
 
 ## Stack utilizada
 
