@@ -1,7 +1,7 @@
 
 # EnsinIA
 
-Descrição do projeto aqui. sakodsakodsaokdok
+Descrição do projeto aqui.
 
 
 ## Stack utilizada
